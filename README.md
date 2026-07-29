@@ -8,7 +8,7 @@ I know, I do a lot.
 I like structured code, clean backends, usable frontends.
 
 
-## 💻 Tech Stack
+## 💻 Umm, i can use these😄
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=FwDubbb+language:C)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=FwDubbb+language:C%2B%2B)
