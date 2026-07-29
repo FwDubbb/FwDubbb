@@ -1,11 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I’m William
 
-My name is William. You already know this by now🤔.
+You already know this by now 🤔.
 
-I am (trying to be a) software and web developer by day, systems infrastructure admin by day too, and an investor by night.
+I’m a **software & web developer** by day, **systems infrastructure admin** by day too, and an **investor** by night 🌙.  
+My creative side makes me like web dev a bit more (sorry to all the hardcore software developers out there 😅).
 
-I know, I do a lot.
-I like structured code, clean backends, usable frontends.
+I like:
+- Structured code 🧱  
+- Clean backends 🧼  
+- Usable frontends 🎨  
+
+I’ve also played (a lot) with **Microsoft 365**, hardware & software management, and **networking**. I love networking. Sometimes. When it behaves. 🌐🔌
+
+I dabble quite a bit in **leadership** and **community involvement** 👯‍♂️👩‍💼.
+
+I’ve built a lot of things.  
+I built them *before* I knew about GitHub commits. Rookie mistake.  
+I have nothing to show for it 😬.  
+I continue to build more. I know about commits now. I *will* have something to show for it. Yay 🎉.
+
+I know, I do a lot. 🤷‍♂️
+
 
 If you want to reach me, 
 ## 🌐 Socials
