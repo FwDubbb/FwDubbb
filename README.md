@@ -7,6 +7,12 @@ I am (trying to be a) software and web developer by day, systems infrastructure 
 I know, I do a lot.
 I like structured code, clean backends, usable frontends.
 
+If you want to reach me, 
+## 🌐 Socials
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.osei-hwere@trojans.dsu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-osei-hwere-61867b252)
+
 
 ## 💻 Umm, i can use these😄
 
