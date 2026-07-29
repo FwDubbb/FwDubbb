@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Software developer by day, debugger by night. I build full‑stack web apps with Node.js, Express, and SQLite, and occasionally pretend I understand M365 admin and investing.
+
 <!--
 **FwDubbb/FwDubbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
