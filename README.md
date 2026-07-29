@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-## Software developer by day, debugger by night. I build full‑stack web apps with Node.js, Express, and SQLite, and occasionally pretend I understand M365 admin and investing.
+My name is William. You already know this by now🤔.
+
+I am (trying to be a) software and web developer by day, systems infrastructure admin by day too, and an investor by night.
+
+I know, I do a lot.
+I like structured code, clean backends, usable frontends.
+
+
 
 <!--
 **FwDubbb/FwDubbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
