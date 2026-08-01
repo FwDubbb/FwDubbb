@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m William
 
-You already know this by now 🤔.
+If you are here, you probably knew that already🤔.
 
 I’m a **software & web developer** by day, **systems infrastructure admin** by day too, and an **investor** by night 🌙.  
 My creative side makes me like web dev a bit more (sorry to all the hardcore software developers out there 😅).
