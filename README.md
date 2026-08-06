@@ -2,7 +2,7 @@
 
 If you are here, you probably knew that already🤔.
 
-I’m a **software & web developer** by day, **systems infrastructure admin** by day too, and an **investor** by night 🌙.  
+I’m a **software & web developer**, **systems infrastructure admin** , and **a lot of things** outside of work 🌙.  
 My creative side makes me like web dev a bit more (sorry to all the hardcore software developers out there 😅).
 
 I like:
@@ -10,7 +10,7 @@ I like:
 - Clean backends 🧼  
 - Usable frontends 🎨  
 
-I’ve also played (a lot) with **Microsoft 365**, hardware & software management, and **networking**. I love networking. Sometimes. When it behaves. 🌐🔌
+I’ve also played (a lot) with **Microsoft 365**, hardware & software management, and **networking**. I like networking. Sometimes. When it behaves. 🌐🔌
 
 I dabble quite a bit in **leadership** and **community involvement** 👯‍♂️👩‍💼.
 
