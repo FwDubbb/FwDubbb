@@ -2,7 +2,7 @@
 
 If you are here, you probably knew that already🤔.
 
-I’m a **software & web developer**, **systems infrastructure admin** , and **a lot of things** outside of work 🌙.  
+I’m a **software & web developer**, **systems infrastructure admin** , and **a lot of things** outside of work🌙.  
 My creative side makes me like web dev a bit more (sorry to all the hardcore software developers out there 😅).
 
 I like:
